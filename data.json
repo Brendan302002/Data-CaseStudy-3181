@@ -1,18 +1,4 @@
 {
-  "brands": [
-    {
-      "Id": 1,
-      "Name": "Nike"
-    },
-    {
-      "Id": 2,
-      "Name": "LEGO"
-    },
-    {
-      "Id": 3,
-      "Name": "KitchenAid"
-    }
-  ],
   "products": [
     {
       "Id": "1",
