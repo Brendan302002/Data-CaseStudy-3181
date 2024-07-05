@@ -1,0 +1,183 @@
+{
+  "brands": [
+    {
+      "Id": 1,
+      "Name": "Nike"
+    },
+    {
+      "Id": 2,
+      "Name": "LEGO"
+    },
+    {
+      "Id": 3,
+      "Name": "KitchenAid"
+    }
+  ],
+  "products": [
+    {
+      "Id": "1",
+      "BrandId": 1,
+      "ProductName": "Nike Air Max 270",
+      "GraphicName": "nike_air_max_270.jpg",
+      "CostPrice": 130.00,
+      "MSRP": 150.00,
+      "QtyOnHand": 100,
+      "QtyOnBackOrder": 30,
+      "Description": "Popular running shoes with Max Air cushioning."
+    },
+    {
+      "Id": "2",
+      "BrandId": 1,
+      "ProductName": "Nike Dri-FIT T-Shirt",
+      "GraphicName": "nike_dri_fit_tshirt.jpg",
+      "CostPrice": 20.00,
+      "MSRP": 30.00,
+      "QtyOnHand": 200,
+      "QtyOnBackOrder": 50,
+      "Description": "Moisture-wicking t-shirt for workouts."
+    },
+    {
+      "Id": "3",
+      "BrandId": 1,
+      "ProductName": "Nike Pro Shorts",
+      "GraphicName": "nike_pro_shorts.jpg",
+      "CostPrice": 25.00,
+      "MSRP": 35.00,
+      "QtyOnHand": 150,
+      "QtyOnBackOrder": 40,
+      "Description": "Performance shorts for training and competition."
+    },
+    {
+      "Id": "4",
+      "BrandId": 1,
+      "ProductName": "Nike Sportswear Hoodie",
+      "GraphicName": "nike_sportswear_hoodie.jpg",
+      "CostPrice": 55.00,
+      "MSRP": 70.00,
+      "QtyOnHand": 120,
+      "QtyOnBackOrder": 20,
+      "Description": "Comfortable hoodie for casual wear."
+    },
+    {
+      "Id": "5",
+      "BrandId": 1,
+      "ProductName": "Nike Legend Training Pants",
+      "GraphicName": "nike_legend_training_pants.jpg",
+      "CostPrice": 40.00,
+      "MSRP": 60.00,
+      "QtyOnHand": 80,
+      "QtyOnBackOrder": 25,
+      "Description": "Lightweight training pants for all activities."
+    },
+    {
+      "Id": "6",
+      "BrandId": 2,
+      "ProductName": "LEGO Star Wars Millennium Falcon",
+      "GraphicName": "lego_star_wars_millennium_falcon.jpg",
+      "CostPrice": 130.00,
+      "MSRP": 160.00,
+      "QtyOnHand": 50,
+      "QtyOnBackOrder": 10,
+      "Description": "Detailed LEGO set of the iconic Millennium Falcon."
+    },
+    {
+      "Id": "7",
+      "BrandId": 2,
+      "ProductName": "LEGO City Police Station",
+      "GraphicName": "lego_city_police_station.jpg",
+      "CostPrice": 80.00,
+      "MSRP": 100.00,
+      "QtyOnHand": 70,
+      "QtyOnBackOrder": 20,
+      "Description": "Exciting police station set from LEGO City series."
+    },
+    {
+      "Id": "8",
+      "BrandId": 2,
+      "ProductName": "LEGO Technic Bugatti Chiron",
+      "GraphicName": "lego_technic_bugatti_chiron.jpg",
+      "CostPrice": 300.00,
+      "MSRP": 350.00,
+      "QtyOnHand": 30,
+      "QtyOnBackOrder": 5,
+      "Description": "Advanced LEGO Technic set of the Bugatti Chiron."
+    },
+    {
+      "Id": "9",
+      "BrandId": 2,
+      "ProductName": "LEGO Friends Heartlake City Resort",
+      "GraphicName": "lego_friends_heartlake_city_resort.jpg",
+      "CostPrice": 80.00,
+      "MSRP": 100.00,
+      "QtyOnHand": 60,
+      "QtyOnBackOrder": 15,
+      "Description": "Fun-filled resort set from LEGO Friends series."
+    },
+    {
+      "Id": "10",
+      "BrandId": 2,
+      "ProductName": "LEGO Architecture Statue of Liberty",
+      "GraphicName": "lego_architecture_statue_of_liberty.jpg",
+      "CostPrice": 100.00,
+      "MSRP": 120.00,
+      "QtyOnHand": 40,
+      "QtyOnBackOrder": 10,
+      "Description": "Detailed model of the Statue of Liberty."
+    },
+    {
+      "Id": "11",
+      "BrandId": 3,
+      "ProductName": "KitchenAid Stand Mixer",
+      "GraphicName": "kitchenaid_stand_mixer.jpg",
+      "CostPrice": 250.00,
+      "MSRP": 300.00,
+      "QtyOnHand": 20,
+      "QtyOnBackOrder": 10,
+      "Description": "Versatile stand mixer for all your baking needs."
+    },
+    {
+      "Id": "12",
+      "BrandId": 3,
+      "ProductName": "KitchenAid Food Processor",
+      "GraphicName": "kitchenaid_food_processor.jpg",
+      "CostPrice": 150.00,
+      "MSRP": 200.00,
+      "QtyOnHand": 30,
+      "QtyOnBackOrder": 5,
+      "Description": "Efficient food processor for easy meal prep."
+    },
+    {
+      "Id": "13",
+      "BrandId": 3,
+      "ProductName": "KitchenAid Blender",
+      "GraphicName": "kitchenaid_blender.jpg",
+      "CostPrice": 120.00,
+      "MSRP": 160.00,
+      "QtyOnHand": 40,
+      "QtyOnBackOrder": 8,
+      "Description": "High-performance blender for smoothies and more."
+    },
+    {
+      "Id": "14",
+      "BrandId": 3,
+      "ProductName": "KitchenAid Coffee Maker",
+      "GraphicName": "kitchenaid_coffee_maker.jpg",
+      "CostPrice": 80.00,
+      "MSRP": 110.00,
+      "QtyOnHand": 50,
+      "QtyOnBackOrder": 7,
+      "Description": "Programmable coffee maker for perfect brews."
+    },
+    {
+      "Id": "15",
+      "BrandId": 3,
+      "ProductName": "KitchenAid Toaster",
+      "GraphicName": "kitchenaid_toaster.jpg",
+      "CostPrice": 60.00,
+      "MSRP": 80.00,
+      "QtyOnHand": 70,
+      "QtyOnBackOrder": 5,
+      "Description": "Stylish toaster for evenly toasted bread."
+    }
+  ]
+}
